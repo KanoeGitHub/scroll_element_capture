@@ -1,0 +1,2 @@
+# scroll_element_capture
+スクロール領域の画面キャプチャが可能なChrome拡張機能
