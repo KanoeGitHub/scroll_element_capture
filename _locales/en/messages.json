@@ -1,0 +1,32 @@
+{
+    "extName": {
+        "message": "Scroll Element Capture"
+    },
+    "extDesc": {
+        "message": "Capture the entire scrollable area of a web page by selecting it"
+    },
+    "buttonTextSelect": {
+        "message": "Select Scroll Area"
+    },
+    "buttonTextCancel": {
+        "message": "Cancel Scroll Area Selection"
+    },
+    "tabNotFound": {
+        "message": "Tab not found"
+    },
+    "pageNotAvailable": {
+        "message": "Page not available"
+    },
+    "captureComplete": {
+        "message": "Capture complete"
+    },
+    "captureError": {
+        "message": "Capture error"
+    },
+    "selectArea": {
+        "message": "Select area"
+    },
+    "selecting": {
+        "message": "Now selecting mode..."
+    }
+}

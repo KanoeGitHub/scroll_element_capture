@@ -1,0 +1,32 @@
+{
+    "extName": {
+        "message": "Scroll Element Capture"
+    },
+    "extDesc": {
+        "message": "Webページ内のスクロール可能な領域を選択して、その全体をキャプチャできるChrome拡張"
+    },
+    "buttonTextSelect": {
+        "message": "スクロール領域を選択"
+    },
+    "buttonTextCancel": {
+        "message": "スクロール領域の選択をやめる"
+    },
+    "tabNotFound": {
+        "message": "タブが見つかりません"
+    },
+    "pageNotAvailable": {
+        "message": "このページでは使用できません"
+    },
+    "captureComplete": {
+        "message": "保存が完了しました！"
+    },
+    "captureError": {
+        "message": "キャプチャ中にエラーが発生しました"
+    },
+    "selectArea": {
+        "message": "領域を選択してください..."
+    },
+    "selecting": {
+        "message": "選択モード中..."
+    }
+}
